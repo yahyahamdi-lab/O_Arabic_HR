@@ -1,3 +1,3 @@
-# Online handwriting Generation
+## Online handwriting Generation
 
-# Online handwriting Recognition
+## Online handwriting Recognition
