@@ -7,13 +7,14 @@ The second strategy applies a frequency treatment that attenuates or amplifies t
 extract a combined static and dynamic representation of the handwritten trajectory which undergoes limited random change around its parameters in order to generate more modified samples. The hybrid strategy consists of combining these strategies to maximize variations of the online handwriting trajectory (OHT).
 ##### Using beta-elliptic model:
 ![image](https://github.com/user-attachments/assets/347dfde9-a003-4511-ac93-19b199592ebe)
-
+##### Using frequency method
+![image](https://github.com/user-attachments/assets/3f412f5c-50f4-4d53-a692-52d630453f28)
 
 #### Requirements
-Python 3.6+
-TensorFlow 2.x
-NumPy
-Matplotlib (for visualization)
+- Python 3.6+
+- TensorFlow 2.x
+- NumPy
+- Matplotlib (for visualization)
 
 #### Evaluation
 
