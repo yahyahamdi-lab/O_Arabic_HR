@@ -16,8 +16,6 @@ extract a combined static and dynamic representation of the handwritten trajecto
 - NumPy
 - Matplotlib (for visualization)
 
-#### Evaluation
-
 #### Citation
 
 Hamdi, Y., Boubaker, H. & Alimi, A.M. Data Augmentation using Geometric, Frequency, and Beta Modeling approaches for Improving Multi-lingual Online Handwriting Recognition. IJDAR 24, 283–298 (2021). https://doi.org/10.1007/s10032-021-00376-2
